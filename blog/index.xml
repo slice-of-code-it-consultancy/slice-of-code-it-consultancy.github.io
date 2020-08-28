@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Ponkan-Apple</title>
+    <link>https://www.sofcode.xyz/blog/</link>
+    <description>Recent content in Blog on Ponkan-Apple</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.sofcode.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About PONKAN-APPLE</title>
+      <link>https://www.sofcode.xyz/blog/intro/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sofcode.xyz/blog/intro/</guid>
+      <description>Here at Ponkan-Apple&amp;hellip; You will be seeing topics that are generally about Technologies that could help achieve specific tasks.
+Contents like  Tips and tricks for solving tasks, valuable  security tips, recent  tech news, and  fun experiments.
+This site will basically be a  record of what we learn and want to  share with you out there.
+ The NAME and The Logo   PONKAN-APPLE    Ponkan Apple!</description>
+    </item>
+    
+  </channel>
+</rss>
