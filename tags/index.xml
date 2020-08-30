@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>apple</title>
-      <link>https://www.sofcode.xyz/tags/apple/</link>
-      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.sofcode.xyz/tags/apple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>first post</title>
       <link>https://www.sofcode.xyz/tags/first-post/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
@@ -30,20 +21,47 @@
     </item>
     
     <item>
-      <title>ponkan</title>
-      <link>https://www.sofcode.xyz/tags/ponkan/</link>
+      <title>GIMP</title>
+      <link>https://www.sofcode.xyz/tags/gimp/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.sofcode.xyz/tags/ponkan/</guid>
+      <guid>https://www.sofcode.xyz/tags/gimp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>why</title>
-      <link>https://www.sofcode.xyz/tags/why/</link>
+      <title>Inkscape</title>
+      <link>https://www.sofcode.xyz/tags/inkscape/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.sofcode.xyz/tags/why/</guid>
+      <guid>https://www.sofcode.xyz/tags/inkscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ponkan-apple</title>
+      <link>https://www.sofcode.xyz/tags/ponkan-apple/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sofcode.xyz/tags/ponkan-apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>translated</title>
+      <link>https://www.sofcode.xyz/tags/translated/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sofcode.xyz/tags/translated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>who</title>
+      <link>https://www.sofcode.xyz/tags/who/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sofcode.xyz/tags/who/</guid>
       <description></description>
     </item>
     

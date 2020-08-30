@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo Future Imperfect Slim sa Tagalog</title>
+    <link>https://www.sofcode.xyz/tl/tags/</link>
+    <description>Recent content in Tags on Hugo Future Imperfect Slim sa Tagalog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tl</language>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.sofcode.xyz/tl/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>first post</title>
+      <link>https://www.sofcode.xyz/tl/tags/first-post/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sofcode.xyz/tl/tags/first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIMP</title>
+      <link>https://www.sofcode.xyz/tl/tags/gimp/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sofcode.xyz/tl/tags/gimp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inkscape</title>
+      <link>https://www.sofcode.xyz/tl/tags/inkscape/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sofcode.xyz/tl/tags/inkscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ponkan-apple</title>
+      <link>https://www.sofcode.xyz/tl/tags/ponkan-apple/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sofcode.xyz/tl/tags/ponkan-apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>translated</title>
+      <link>https://www.sofcode.xyz/tl/tags/translated/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sofcode.xyz/tl/tags/translated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>who</title>
+      <link>https://www.sofcode.xyz/tl/tags/who/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sofcode.xyz/tl/tags/who/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
