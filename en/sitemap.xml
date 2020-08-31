@@ -185,10 +185,30 @@
   <url>
     <loc>https://www.sofcode.xyz/about/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://www.sofcode.xyz/tl/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.sofcode.xyz/about/"
+                />
   </url>
   
   <url>
     <loc>https://www.sofcode.xyz/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://www.sofcode.xyz/tl/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.sofcode.xyz/contact/"
+                />
   </url>
   
 </urlset>

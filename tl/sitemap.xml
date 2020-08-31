@@ -182,4 +182,33 @@
                 />
   </url>
   
+  <url>
+    <loc>https://www.sofcode.xyz/tl/about/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.sofcode.xyz/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://www.sofcode.xyz/tl/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.sofcode.xyz/tl/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.sofcode.xyz/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="https://www.sofcode.xyz/tl/contact/"
+                />
+  </url>
+  
 </urlset>
